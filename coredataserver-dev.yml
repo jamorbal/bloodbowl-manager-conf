@@ -1,0 +1,8 @@
+# Core Data Server Configuration
+port: 8080
+datasource:
+  url: jdbc:postgresql://localhost:5432/core
+  username: postgres
+  password: password
+
+
